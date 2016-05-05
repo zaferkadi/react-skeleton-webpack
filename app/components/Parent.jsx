@@ -1,7 +1,7 @@
 import React from 'react';
-import Child from './Child.js';
+import Child from './Child.jsx';
+import ParentStyle from './Parent.scss';
 
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 
 class Parent extends React.Component {
   constructor(props) {

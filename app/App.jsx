@@ -1,5 +1,5 @@
 import React from 'react';
-import Parent from './components/Parent';
+import Parent from './components/Parent.jsx';
 
 class App extends React.Component {
   constructor(props) {
